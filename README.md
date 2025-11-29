@@ -36,3 +36,19 @@ This is the copy for the collapsed text.
 
 `#FABCDE`
 :hear
+
+
+```mermaid
+graph TD;
+	A--->B;
+	A--->C;
+```
+
+> [!Note]
+> A normal note
+
+> [!IMPORTANT]
+> Important note
+
+> [!WARNING]
+> A Warning note
